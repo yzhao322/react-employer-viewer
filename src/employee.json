@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "John Barr",
+    "age": 30,
+    "occupation": "Manager",
+    "employee_file_number": "20091",
+    "office": "100",
+    "email":"john@123.com",
+    "phone_number":"123456"
+  },
+  {
+    "id": 2,
+    "name": "Zee Jack",
+    "age": 27,
+    "occupation": "Engineer",
+    "employee_file_number": "10956",
+    "office": "120",
+    "email":"zee@123.com",
+    "phone_number":"8674326"
+  },
+  {
+    "id": 3,
+    "name": "Saint Smith",
+    "age": 22,
+    "occupation": "Accountant",
+    "employee_file_number": "10955",
+    "office": "101",
+    "email":"saint@123.com",
+    "phone_number":"3456789"
+  },
+  {
+    "id": 4,
+    "name": "Jimmy Wood",
+    "age": 33,
+    "occupation": "Engineer",
+    "employee_file_number": "20101",
+    "office": "120",
+    "email":"jimmy@123.com",
+    "phone_number":"0547546"
+  },
+  {
+    "id": 5,
+    "name": "Ford Lee",
+    "age": 25,
+    "occupation": "Sales",
+    "employee_file_number": "20102",
+    "office": "102",
+    "email":"ford@123.com",
+    "phone_number":"3577896"
+  },
+  {
+    "id": 6,
+    "name": "Tommy Hill",
+    "age": 21,
+    "occupation": "Intern",
+    "employee_file_number": "20312",
+    "office": "130",
+    "email":"tommy@123.com",
+    "phone_number":"76438656"
+    
+  },
+
+  {
+    "id": 7,
+    "name": "Johnny Tiger",
+    "age": 28,
+    "occupation": "Manager Assistant",
+    "employee_file_number": "20112",
+    "office": "100-B",
+    "email":"Johnny@123.com",
+    "phone_number":"97426675"
+  },
+  {
+    "id": 8,
+    "name": "Tommy Ronald",
+    "age": 25,
+    "occupation": "Sales",
+    "employee_file_number": "20122",
+    "office": "102",
+    "email":"tommy@123.com",
+    "phone_number":"9754356"
+  },
+  {
+    "id": 9,
+    "name": "Rocky Chen",
+    "age": 30,
+    "occupation": "Engineer",
+    "employee_file_number": "20156",
+    "office": "120",
+    "email":"rocky@123.com",
+    "phone_number":"35567888"
+  }
+]
